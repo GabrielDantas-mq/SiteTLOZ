@@ -1,3 +1,3 @@
 # SiteTLOZ
 
-Acesse o site aqui: https://github.com/GabrielDantas-mq/SiteTLOZ.git
+Acesse o site aqui: https://gabrieldantas-mq.github.io/SiteTLOZ/
